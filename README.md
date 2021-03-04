@@ -1,9 +1,9 @@
 # National-Flood-Insurance-Program
-Repository based on the OpenFEMA data for the National Flood Insurance Program (NFIP). 
+Casual project based on the OpenFEMA data for the National Flood Insurance Program (NFIP).
+
 Source: [OpenFEMA Dataset: FIMA NFIP Redacted Claims - v1](https://www.fema.gov/openfema-data-page/fima-nfip-redacted-claims-v1)
 
-Casual project. 
-
+Tasks:
 - Exploratory data analysis of the attributes.
 - Exploration of the geo-data in ArcMap.
 - Look at opportunities to apply machine learning and to derive insights.
