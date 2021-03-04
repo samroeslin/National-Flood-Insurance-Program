@@ -15,4 +15,4 @@ For more FEMA datasets see [OpenFEMA Data Sets](https://www.fema.gov/about/openf
 - Look at opportunities to apply machine learning and to derive insights.
 
 ## Author
-* **Samuel Roeslin** - *Initial work* - [sroe459](https://github.com/sroe459)
+* **Samuel Roeslin** - *Initial work* - [samroeslin](https://github.com/samroeslin)
